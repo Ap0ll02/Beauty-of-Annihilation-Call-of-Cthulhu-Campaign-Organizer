@@ -3,15 +3,24 @@ function Header() {
         <div className="homePage">
             <h1 id="title" >Beauty of Annihilation</h1>
             <hr id="titleBar"></hr>
-            <img src="../Assets/HistoryCards.png" className="Cards" id="historyCard"/>
+            <div className="Cards">
+                <img src="../Assets/HistoryCards.png"  id="historyCard"/>
+                <h2 id="storytxt">Story</h2>
+                <img src="../Assets/NPCCard.png" id="npccard"/>
+                <h2 id="npctxt">NPC's</h2>
+                <img src="../Assets/SecretCard.png" id="secretcard"/>
+                <h2 id="secrettxt">Secrets</h2>
+            </div>
             <h2 className="homeText">The Auction House</h2>
             <p className="homeText">You have all been invited to the auction house, the investigators must arrive to Paris and to the auction by 1800 hours, where everyone will meet for the first time. Perhaps by unfortuante circumstances, or by enjoyable banter prior
                 to the auction. The auction is eventually called into session after a bit, and has some items for auction, the night starts out with the following: </p>
+            <br></br>
             <ul className="homeText">
                 <li className="homeText"><span>The Skull of Saint Peter</span></li>
                 <li className="homeText"><span>The Last Will and Testament of Merlin</span></li>
                 <li className="homeText"><span>Orders of Nightmares</span></li>
             </ul>
+            <br></br>
             <p className="homeText">Many interested bidders are happy to bring the bidding up to hundreds of dollars, most likely leaving all of our players out of the bidding. An intermission is granted and guests are encouraged to eat and drink, finally
                 there are more hauntings to start. If some players have the perception or notice, there are some groans they might here. Or they might spot a small body part or bit of flesh on the ground or hidden inside a plant.
                 Even a bit of blood trails might be seen by the investigators. They can attempt to sneak around the house the auction is held at and explore for more clues. 

@@ -12,4 +12,5 @@ History and lore of the world can be quite different if needed, but for my game,
 
 # Wrapping Up
 Thanks for viewing this Repo, I hope that this website, or some variant more suitable for reading, rather than organizing my personal game, may be published and viewable in the future.
+
 *This repo has omitted the Assets folder, as it contains copyrighted imagery that may be allowed for personal, but not public use.*

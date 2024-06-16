@@ -16,6 +16,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+body {
+  animation: fadein 10s;
+}
 
 ul {
   text-align: center;
@@ -49,6 +52,11 @@ ul {
   to { opacity: 1; }
 }
 
+@keyframes fadeout {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
 #titleBar {
   height: 20px;
   border-style:none;
@@ -60,15 +68,63 @@ ul {
 }
 
 .Cards {
-  display: flexbox;
-  justify-content: space-evenly;
-  margin: auto;
-  margin-left: 2vw;
-  background-size: 1vw;
-  margin-bottom: 2vh;
-  margin-top: 2vh;
+  animation: fadein 5s;
+  text-align: center;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+
 }
 
 #historyCard {
   width: 15%;
+  margin-right: 1vw;
+}
+
+#storytxt {
+  font-size: 4rem;
+  position: absolute;
+  left: 30%;
+  text-align: center;
+  display: none;
+}
+#npctxt {
+  font-size: 4rem;
+  position: absolute;
+  left: 47%;
+  text-align: center;
+  display: none;
+}
+#secrettxt {
+  font-size: 4rem;
+  position: absolute;
+  left: 63%;
+  text-align: center;
+  display: none;
+}
+
+#historyCard:hover + #storytxt {
+  animation: fadein 1s;
+  display: inline;
+}
+
+#npccard {
+  width: 15%;
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+
+#npccard:hover + #npctxt {
+  animation: fadein 1s;
+  opacity: 1;
+  display: inline;
+}
+
+#secretcard {
+  width: 15%;
+  margin-left: 1vw;
+}
+
+#secretcard:hover + #secrettxt {
+  animation: fadein 1s;
+  display: inline;
 }
