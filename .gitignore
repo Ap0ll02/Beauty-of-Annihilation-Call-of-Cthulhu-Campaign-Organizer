@@ -1,2 +1,3 @@
 # Getting rid of assets in the git repo as it contains copyrighted images.
 Assets/
+._Assets
