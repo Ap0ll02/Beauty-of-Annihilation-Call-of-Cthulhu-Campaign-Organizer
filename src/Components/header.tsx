@@ -41,8 +41,7 @@ function Header() {
                 exciting, except that it happens to be Element 115. This chemical is capable of creating zombies, unbeknownst to the investigators of course. Under extreme success of perception or the like 
                 it can be seen the etched 115 on the bottle. As the auction comes to a close and the winning bid has been placed, all hell breaks loose. The entrance to the auction room is invaded 
                 by the man from upstairs, once dead, now undead, walking towards everyone. His features are distorted, grosser, rotten. Teeth and claw-like fingernails, attempting to find a target in the crowd of 
-                auction-attendees. Should our investigators choose to fight it, that is fine, should they run this is also fine. It is only one zombie afterall. However, they will have to make a sanity check from this monstruous horror 
-                they have now laid their eyes upon. 
+                auction-attendees. Should our investigators choose to fight it, that is fine, should they run this is also fine. It is only one zombie afterall. However, they will have to make a sanity check from this monstruous horror they have now laid their eyes upon. 
             </p>
         </div>
     )

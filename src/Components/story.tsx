@@ -14,7 +14,9 @@ function Story() {
 
 	       The demon had told him how it works, merely a few drops should bring a person back, at least that is how it worked when the demon saw it in effect. John-Phillipe and Bastien told Isaac to try it on one of the bodies in the morgue, they weren't convinced of its' effect. Isaac obliged, though unnerved, to use some of the blue fluid, tapping the side, with the vial tilted, to get a couple drops into the corpse's mouth. The boys happened to pull out the man Patrick Hawks, whom was killed much earlier that day. For a while, nothing was happening, a couple minutes had passed, and the demon was gone. Isaac was growing dissapointed, hoping the vial would have worked. As the boys prepared to give up, they suddenly saw the body twitch. The eyes opened, dull blue, the corpse's arms and legs started to twitch and move more dramatically. Bastien screamed, and John-Phillipe stood frozen. Isaac just kept backing up. Bumping into the wall, Isaac jumped, accidentally dropping the vial. It shattered on the floor, and blue smoke rose up from the liquid. The boys ran, and the body remained twitching about, violently.
 
-	       When Linda woke up the next morning, she thought about what she would do that weekend. Free time, all to herself. A knock landed upon her door, and she answered. Chief Lagarde, from the station, stood at the door, a worried look in his eyes. 
+	       When Linda woke up the next morning, she thought about what she would do that weekend. Free time, all to herself. A knock landed upon her door, and she answered. Chief Lagarde, from the station, stood at the door, a worried look in his eyes.  
+
+            
             </p>
         </div>
     );
